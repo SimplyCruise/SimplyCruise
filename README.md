@@ -1,7 +1,5 @@
 - 👋 Hi, I’m FIDELIS||CRUISE
-- 👀 I am a front-end developer (web designer)
-- 🌱 
-- 💞️
+- 👀 I am a front-end developer (web dev)
 - 📫 you can get me on linkedin www.linkedin.com/in/fidelis-awamba
 
 <!---
